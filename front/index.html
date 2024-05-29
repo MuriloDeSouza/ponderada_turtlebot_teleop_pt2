@@ -139,17 +139,17 @@
         const BotoesMover = () => {
             return (
                 <div className="navigation-buttons">
-                    <button onClick={() => publicaVelocidade(2.0, 0)}>
-                        <img src="seta-esquerda.png" alt="esquerda" />
-                    </button>
                     <button onClick={() => publicaVelocidade(-2.0, 0)}>
-                        <img src="seta-cima.png" alt="cima" />
+                        <img src="seta-cima.png" alt="baixo" />
+                    </button>
+                    <button onClick={() => publicaVelocidade(2.0, 0)}>
+                        <img src="seta-baixo.png" alt="cima" />
                     </button>
                     <button onClick={() => publicaVelocidade(0, 1)}>
-                        <img src="seta-direita.png" alt="direita" />
+                        <img src="seta-esquerda.png" alt="esquerda" />
                     </button>
                     <button onClick={() => publicaVelocidade(0, -1)}>
-                        <img src="seta-baixo.png" alt="baixo" />
+                        <img src="seta-direita.png" alt="direita" />
                     </button>
                 </div>
             );
