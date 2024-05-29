@@ -12,10 +12,10 @@ Seta para direita: Robo gira em torno do seu eixo para a direita
 Seta para esquerda: Robo gira em torno do seu eixo para a esquerda
 
 E na página HTML temos setas também onde pode-se clicar nelas e conseguir movimentar o robo:
-![seta para cima](front\seta-cima.png)
-![seta para baixo](front\seta-baixo.png)
-![seta para direita](front\seta-direita.png)
-![seta para esquerda](front\seta-esquerda.png)
+![seta para cima](https://github.com/MuriloDeSouza/ponderada_turtlebot_teleop_pt2/blob/main/front/seta-cima.png)
+![seta para baixo](https://github.com/MuriloDeSouza/ponderada_turtlebot_teleop_pt2/blob/main/front/seta-baixo.png)
+![seta para direita](https://github.com/MuriloDeSouza/ponderada_turtlebot_teleop_pt2/blob/main/front/seta-direita.png)
+![seta para esquerda](https://github.com/MuriloDeSouza/ponderada_turtlebot_teleop_pt2/blob/main/front/seta-esquerda.png)
 
 # Pré Requisitos
 
