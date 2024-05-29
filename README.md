@@ -86,7 +86,7 @@ ros2 launch rosbridge_server rosbridge_websocket_launch.xml
 ```
 E por fim, podemos rodar a página de HTML no VScode com o auxílio da extensão "Live Share", é só entrar na aba do código, cujo caminhho é: 
 (\ponderada_turtlebot_teleop_pt2\front\index.html) e clicar no ícone do LiveShare e logo terá a página de visualização que é identica a essa abaixo:
-![Imagem da tela](https://github.com/MuriloDeSouza/ponderada_turtlebot_teleop_pt2/blob/main/front/tela-img.png)
+![Imagem da tela](https://github.com/MuriloDeSouza/ponderada_turtlebot_teleop_pt2/blob/main/front/tela_img.png)
 
 # link do drive para acesso aos vídeos
 
