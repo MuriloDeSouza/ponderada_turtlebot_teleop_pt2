@@ -12,10 +12,10 @@ Seta para direita: Robo gira em torno do seu eixo para a direita
 Seta para esquerda: Robo gira em torno do seu eixo para a esquerda
 
 E na página HTML temos setas também onde pode-se clicar nelas e conseguir movimentar o robo:
-![seta para cima](C:\Users\muril\OneDrive\Documentos\GitHub\ponderada_turtlebot_teleop_pt2\front\seta-cima.png)
-![seta para baixo](C:\Users\muril\OneDrive\Documentos\GitHub\ponderada_turtlebot_teleop_pt2\front\seta-baixo.png)
-![seta para direita](C:\Users\muril\OneDrive\Documentos\GitHub\ponderada_turtlebot_teleop_pt2\front\seta-direita.png)
-![seta para esquerda](C:\Users\muril\OneDrive\Documentos\GitHub\ponderada_turtlebot_teleop_pt2\front\seta-esquerda.png)
+![seta para cima](front\seta-cima.png)
+![seta para baixo](front\seta-baixo.png)
+![seta para direita](front\seta-direita.png)
+![seta para esquerda](front\seta-esquerda.png)
 
 # Pré Requisitos
 
@@ -83,5 +83,5 @@ ros2 launch rosbridge_server rosbridge_websocket_launch.xml
 ```
 E por fim, podemos rodar a página de HTML no VScode com o auxílio da extensão "Live Share", é só entrar na aba do código, cujo caminhho é: 
 (\ponderada_turtlebot_teleop_pt2\front\index.html) e clicar no ícone do LiveShare e logo terá a página de visualização que é identica a essa abaixo:
-
+![Imagem da tela]()
 
